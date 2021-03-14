@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^10.2.4",
+    "base-64": "^1.0.0",
     "google-spreadsheet": "^3.1.15",
     "moment": "^2.29.1",
     "next": "^10.0.7",
