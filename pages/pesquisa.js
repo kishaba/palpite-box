@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import PageTitle from '../components/pageTitle'
+import PageTitle from '../components/PageTitle'
 
 const Pesquisa = () => {
   const [form, setForm] = useState({

@@ -1,7 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
-import PageTitle from '../components/pageTitle'
-
+import PageTitle from '../components/PageTitle'
 const Sobre = () => {
   return (
     <div>
