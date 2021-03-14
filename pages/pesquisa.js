@@ -87,7 +87,6 @@ const Pesquisa = () => {
           >
             Salvar
           </button>
-          <pre>{JSON.stringify(form, null, 2)}</pre>
         </div>
       )}
       {sucess && (
