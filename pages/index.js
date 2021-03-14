@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 import useSWR from 'swr'
-import PageTitle from '../components/pageTitle'
+import PageTitle from '../components/PageTitle'
 
 const fetcher = (...args) => fetch(...args).then(res => res.json())
 
