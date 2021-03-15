@@ -4,7 +4,7 @@
 
 Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpite-box-phi-three.vercel.app/
 
-![Preview](https://github.com/tuliofaria/palpite-box/blob/master/print.png?raw=true)
+![Preview](https://github.com/kishaba/palpite-box/blob/master/print_palpite-box.png?raw=true)
 
 ## Início
 
